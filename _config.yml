@@ -4,7 +4,7 @@ email: hello@conroywhitney.com
 description: > # this means to ignore newlines until "baseurl:"
   Hi. I'm Conroy. Nice to meet you.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://conroywhitney.com"
+url: "http://www.conroywhitney.com"
 twitter_username: jekyllrb
 github_username:  jekyll
 include:
