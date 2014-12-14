@@ -1,6 +1,8 @@
 ---
- layout: post
- title: Mojitos in Miami
+layout: post
+tags:
+ - blawg
+title: Mojitos in Miami
 ---
 
 This morning, I woke up in Antigua, Guatemala. I had a "traditional" breakfast at McDonalds. It had tortillas, eggs, refried black beans, queso fresco, salsa, creme, and sausage. Ingredient-wise, it is indeed traditional -- except for the meat -- I've never had meat for breakfast in Guatemala. Yet it was still McDonalds; that is to say, each food element had obviously been designed and packaged with mass-production, quick-service, and high profit margins in mind, more than quality, taste, or health. I ate there just to see what it was like. And now I know -- no need to go back!

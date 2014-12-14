@@ -1,6 +1,8 @@
 ---
- layout: post
- title: Freedom Costs a Buck Twenty-Eight
+layout: post
+tags:
+ - blawg
+title: Freedom Costs a Buck Twenty-Eight
 ---
 
 When you ask people the first word that pops into their head when they think of *America*, it is most likely *Freedom* (thanks George W). But to me, when I think of the word "free", I think of "without cost", like the Spanish word *gratis*. Instead, I like to use the word *liberty*, like the Spanish word *libre*. Or, if you want to keep using the same word, use a qualifier like ["*free*, as in speech" and "*free*, as in beer"](http://en.wikipedia.org/wiki/Gratis_versus_libre Wikipedia - Gratis vs. Libre).

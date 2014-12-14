@@ -1,6 +1,8 @@
 ---
- layout: post
- title: Eleventh Commandment
+layout: post
+tags:
+ - blawg
+title: Eleventh Commandment
 ---
 
 These past few days have been trying. It's been festival "de la cruz"

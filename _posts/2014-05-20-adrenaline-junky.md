@@ -1,6 +1,8 @@
 ---
- layout: post
- title: Adrenaline Junky
+layout: post
+tags:
+ - blawg
+title: Adrenaline Junky
 ---
 
 Before today, I never would have

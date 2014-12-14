@@ -1,6 +1,8 @@
 ---
- layout: post
- title: Longest Day
+layout: post
+tags:
+ - blawg
+title: Longest Day
 ---
 
 Today was the Summer solstace which is by definition the longest day of

@@ -1,6 +1,8 @@
 ---
- layout: post
- title: Quantum Zen
+layout: post
+tags:
+ - blawg
+title: Quantum Zen
 ---
 
 Quantum Zen is the underlying truth that everything is connected, and that balance is the key to personal happiness and right-doing. It emerges from a mixture of eastern philosophy and modern science (hence the name, Quantum Zen). It is based on four tenets: Connection, Non-Duality, Balance, and Choice.

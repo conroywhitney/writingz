@@ -1,6 +1,8 @@
 ---
- layout: post
- title: Anti-Buddha
+layout: post
+tags:
+ - blawg
+title: Anti-Buddha
 ---
 
 I can't quite describe exactly what is going on, and how I feel about

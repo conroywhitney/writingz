@@ -1,6 +1,8 @@
 ---
- layout: post
- title: Safety Blanket
+layout: post
+tags:
+ - blawg
+title: Safety Blanket
 ---
 
 I bought a *manta indigena* today in Lima -- a blanket made out of alpaca hair like what you would expect some tourist in Peru to buy. I sought mine out -- indeed, it is the only thing I wanted to buy here. I could see it in my mind -- what I wanted it to look like (black and grey, surprise surprise); how big I wanted it to be (curl-up body-sized); what weight it should be (warm, but not bulky); what texture it should have against my skin (soft, but not tickly). All I needed to do was sit back and let it come to me. And it did. It's perfect. It's the right everything. I couldn't ask for anything more.

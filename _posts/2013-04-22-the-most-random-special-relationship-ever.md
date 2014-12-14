@@ -1,6 +1,8 @@
 ---
- layout: post
- title: The Most Random Special Relationship Ever
+layout: post
+tags:
+ - blawg
+title: The Most Random Special Relationship Ever
 ---
 
 We all have those people in our lives that we will remember for as long

@@ -1,6 +1,8 @@
 ---
- layout: post
- title: Postmortem Penroses
+layout: post
+tags:
+ - blawg
+title: Postmortem Penroses
 ---
 
 Now I remember, doing this before. How much time I invested in it. The

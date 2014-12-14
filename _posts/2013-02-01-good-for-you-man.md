@@ -1,6 +1,8 @@
 ---
- layout: post
- title: Good For You, Man
+layout: post
+tags:
+ - blawg
+title: Good For You, Man
 ---
 
 When I talk to people about what I'm doing, I usually get a response like: "Wow, good for you man. I wish I could do that."

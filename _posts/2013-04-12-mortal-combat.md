@@ -1,6 +1,8 @@
 ---
- layout: post
- title: Mortal Combat
+layout: post
+tags:
+ - blawg
+title: Mortal Combat
 ---
 
 Don't laugh, but I used to dance when I was a kid. I think that was

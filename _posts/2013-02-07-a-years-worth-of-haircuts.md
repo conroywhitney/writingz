@@ -1,6 +1,8 @@
 ---
- layout: post
- title: A Year's Worth of Haircuts
+layout: post
+tags:
+ - blawg
+title: A Year's Worth of Haircuts
 ---
 
 It's winter here in Peten. The air temperature, in the shade, is exactly my favorite weather: 75 or so degrees with a nice breeze. But the sun, man; the sun here is intense. (Not sure what that's all about. Probably global warming.) If you're in the sun, it feels like the dead of summer in Atlanta: 100 degrees, humid, and for some reason the breeze stops. How it's possible to go from the most perfect weather to my definition of hell simply by stepping out of the shade is a mystery to me.

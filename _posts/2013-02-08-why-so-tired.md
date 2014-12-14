@@ -1,6 +1,8 @@
 ---
- layout: post
- title: Why So Tired?
+layout: post
+tags:
+ - blawg
+title: Why So Tired?
 ---
 
 I left NYC for Guatemala a week ago, and for that entire time one common thread has linked each of my days: I've been incredibly tired. I wish to understand the underlying cause of my situation in order to either accept it or change it. When searching for the root cause in circumstances like this, it's best to examine and rule out all possibilities. As Sherlock Holmes would say, whatever is left, however improbable, is your answer. So here lies an attempt to explain the inexplicable: why am I so tired? 

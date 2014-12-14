@@ -1,6 +1,8 @@
 ---
- layout: post
- title: Cruel Lilacs
+layout: post
+tags:
+ - blawg
+title: Cruel Lilacs
 ---
 
 Being in my mid-to-late 20s is a trip, man. It's been 10 years since I was in High School. And man oh man, I don't really care to go back there. High School was great, but it was High School. It had thoughts, emotions, and relationships that helped me grow; taught me more about myself; and helped make me who I am today. Yet still, I do not care to re-address the questions and puzzles that I had at that point in my life. I feel that I have learned those lessons and have moved on to greener pastures. I am much more intrigued by the mysteries and connections that I am seeking now than I am by trying to re-experience the advent of my philosophical and spiritual curiosity. 

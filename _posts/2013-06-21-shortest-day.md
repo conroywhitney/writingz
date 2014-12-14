@@ -1,6 +1,8 @@
 ---
- layout: post
- title: Shortest Day
+layout: post
+tags:
+ - blawg
+title: Shortest Day
 ---
 
 The following takes place in the recent past, and the recent future, or

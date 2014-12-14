@@ -1,6 +1,8 @@
 ---
- layout: post
- title: Romeo y Juliet
+layout: post
+tags:
+ - blawg
+title: Romeo y Juliet
 ---
 
 "It's a love story; baby, just say 'yes!'"
