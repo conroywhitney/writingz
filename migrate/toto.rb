@@ -7,7 +7,7 @@ Dir['/Users/conroy/blawg-toto/articles/*.txt'].sort.each do |path|
   raise "No title" unless headers =~ /^title: (.+)$/
   title = $1
   File.open(new_file, "w+") do |f|
-    f.write"---\nlayout: post\ntags:\n - blawg\ntitle: #{title}\n---\n\n#{md}"
+    f.write"---\nlayout: post\ntags:\n - blawg\n - personal\ntitle: #{title}\n---\n\n#{md}"
   end
 end
 

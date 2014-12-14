@@ -2,6 +2,7 @@
 layout: post
 tags:
  - blawg
+ - personal
 title: A Year's Worth of Haircuts
 ---
 

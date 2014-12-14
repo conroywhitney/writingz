@@ -2,6 +2,7 @@
 layout: post
 tags:
  - blawg
+ - personal
 title: Cover Letter for Duolingo
 ---
 

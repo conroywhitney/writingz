@@ -2,6 +2,7 @@
 layout: post
 tags:
  - blawg
+ - personal
 title: Freedom Costs a Buck Twenty-Eight
 ---
 
