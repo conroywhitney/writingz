@@ -7,6 +7,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://conroywhitney.com"
 twitter_username: jekyllrb
 github_username:  jekyll
+include:
+ - robots.txt
 exclude:
  - migrate
  - _plugins
