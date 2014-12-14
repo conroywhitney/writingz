@@ -5,5 +5,6 @@ ruby "2.0.0"
 gem 'jekyll'
 
 # wordpress
+gem 'mysql2'
 gem 'sequel'
 gem 'fileutils'

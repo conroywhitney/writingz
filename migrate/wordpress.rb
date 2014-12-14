@@ -38,7 +38,7 @@ module Jekyll
 				  where tr.object_id=%d and tt.taxonomy = 'post_tag'";
 
     def self.process(dbname = '', user='', pass='', host = 'localhost', domain = '')
-      db = Sequel.mysql(dbname, :user => user, :password => pass, :host => host)
+      db = Sequel.mysql2(dbname, :user => user, :password => pass, :host => host)
 
       FileUtils.mkdir_p "_posts"
 
@@ -48,7 +48,7 @@ module Jekyll
         slug = post[:post_name]
         date = post[:post_date]
         content = post[:post_content]
-        name = "%02d-%02d-%02d-%s.markdown" % [date.year, date.month, date.day, slug]
+        name = "%02d-%02d-%02d-%s.md" % [date.year, date.month, date.day, slug]
 
 		# Get associated taxonomy terms (tags)
 		# We replace + with nothing and transform to lower case
@@ -57,6 +57,8 @@ module Jekyll
 		db[TAGS_QUERY % post[:ID]].each do |tag|
 			tags << tag[:name].to_s.gsub('+','').downcase
 		end
+    tags << 'konreu'
+    tags << 'tech'
 
 		# Process content to rewrite some URLs
 		if domain
@@ -68,7 +70,6 @@ module Jekyll
         data = {
            'layout' => 'post',
            'title' => title.to_s,
-           'excerpt' => post[:post_excerpt].to_s,
 		   'tags' => tags
          }.delete_if { |k,v| v.nil? || v == ''}.to_yaml
 
