@@ -9,6 +9,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 exclude:
  - migrate
+ - _plugins
 
 # Build settings
 markdown: kramdown
