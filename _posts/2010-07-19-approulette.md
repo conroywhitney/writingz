@@ -6,7 +6,7 @@ tags:
 - tech
 ---
 <div>
-<img src="http://android.konreu.com{{ site.url }}/assets/2010/07/icon_orig_size.png" width="125px" style="float:left;" />
+<img src="/assets/app-roulette/app-roulette-icon.png" width="125px" style="float:left;" />
 
 <h2>Discover the best apps in the Android Marketplace that do not make it on any Top 10 list.</h3>
 
@@ -18,7 +18,7 @@ Take a chance on a new app, with AppRoulette!</h3>
 </div>
 
 <div>
-<img src="http://android.konreu.com{{ site.url }}/assets/2010/07/qrcode_approulette.png" width="125px" style="float:left; margin-right:10px;" />
+<img src="/assets/app-roulette/app-roulette-qrcode.png" width="125px" style="float:left; margin-right:10px;" />
 
 You can download AppRoulette in the Android Marketplace by <a href="market://details?id=com.konreu.android.approulette">tapping here from your Android phone</a>, searching for "app roulette" from within the Android Marketplace, or using your Barcode Scanner to read the QRCode to the left. 
 </div>

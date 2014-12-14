@@ -7,7 +7,7 @@ tags:
 ---
 <p>Lest ye think that Google Search has reached its apex of understanding human nuances, ponder the following scenario: A Google search for <a href="https://www.google.com/search?q=vegan+lasagna+zucchini">"vegan lasagna zucchini"</a> yields results that are, in fact, not vegan. Google does its human-intention-determination magic and realizes that "vegan" and "vegetarian" are related terms, which is true. However, in this case, the distinction is quite important: all vegan recipes are vegetarian, but not all vegetarian recipes are vegan. That is to say, vegan is a subset of vegetarian.</p>
 
-<img src="http://android.konreu.com{{ site.url }}/assets/2014/05/google-vegan-vegetarian.png" height="400" alt="" title="google-vegan-vegetarian" class="alignnone size-medium wp-image-456" />
+<img src="/assets/google/google-vegan-vegetarian.png" height="400" alt="" title="google-vegan-vegetarian" class="alignnone size-medium wp-image-456" />
 
 <p>I am so used to Google being right, that when I clicked into a result and saw cheese as part of the ingredients list, I assumed the recipe website had made a mistake! No way Google would have given me a result for a vegetarian recipe when I searched for vegan. Inconceivable that Google would make such an error. My mind could not comprehend that this could have occurred. I felt empty, and hollow inside. Like the ground had fallen out from beneath me. Why, Google? Why? I trusted you! You told me everything would be fine, but it won't! Everything's not fine!  <i>*breaks down and cries*</i></p>
 

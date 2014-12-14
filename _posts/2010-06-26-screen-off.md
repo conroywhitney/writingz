@@ -5,7 +5,7 @@ tags:
 - konreu
 - tech
 ---
-<h3><img src="http://android.konreu.com{{ site.url }}/assets/2010/07/icon1.png" style="float:left; margin-right:10px;" />A convenient alternative to your power button for turning your screen off to save battery.
+<h3><img src="/assets/screen-off/screen-off-logo.png" style="float:left; margin-right:10px;" />A convenient alternative to your power button for turning your screen off to save battery.
 
 Locks your screen and puts your phone to sleep as quickly as possible.
 
@@ -13,7 +13,7 @@ Press menu to select display options.
 
 This does not immediately turn off your screen. For security reasons Android does not let applications sleep your phone.</h3>
 
-<img src="http://android.konreu.com{{ site.url }}/assets/2010/06/screen_off_qrcode.png" style="float:left; margin-right:10px;" />You can download Screen Off in the Android Marketplace by <a href="market://details?id=com.konreu.android.screenoff">tapping here from your Android phone</a>, searching for "screen off" from within the Android Marketplace, or using your Barcode Scanner to read the QRCode to the left. 
+<img src="/assets/screen-off/screen-off-qrcode.png" style="float:left; margin-right:10px;" />You can download Screen Off in the Android Marketplace by <a href="market://details?id=com.konreu.android.screenoff">tapping here from your Android phone</a>, searching for "screen off" from within the Android Marketplace, or using your Barcode Scanner to read the QRCode to the left. 
 
 <p>If you want to be able to quickly put your phone to sleep without pressing the Power Button (e.g., EVO 4G, Droid X, or Droid 2 users), then this application is perfect for you!</p>
 
