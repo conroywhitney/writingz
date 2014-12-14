@@ -1,6 +1,9 @@
 ---
- layout: post
- title: Just Ask Why
+layout: post
+tags:
+ - blawg
+ - personal
+title: Just Ask Why
 ---
 
 w-h-y? Or in Espanol, ?por que?

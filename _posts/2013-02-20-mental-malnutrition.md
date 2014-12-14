@@ -1,6 +1,9 @@
 ---
- layout: post
- title: Mental Malnutrition
+layout: post
+tags:
+ - blawg
+ - personal
+title: Mental Malnutrition
 ---
 
 Within 72 hours of deciding to come to Guatemala, I had bought a ticket and was on a plane to the first third-world country I have visited. My decision was not based on things that I only learned later, once I was here; things like Mayan ruins, weather, what have you. I decided on Guatemala because I decided on a specific organization: [Buenas Cosas](http://www.buenascosas.org/) -- Good Things. Although what I anticipated and what I encountered where worlds apart, I still feel that I have learned what I (thought that I) came here to learn: that when we think of "[3rd world problems](https://www.youtube.com/water)", we are really projecting our own insecurities and weaknesses on others. The problems we talk about, like food, clean water, and healthcare are not really problems. In fact, the difficulties that we identify as problems are merely "the way things are" for people here.

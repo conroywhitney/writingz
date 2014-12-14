@@ -1,6 +1,9 @@
 ---
- layout: post
- title: Real Life Checkpoints
+layout: post
+tags:
+ - blawg
+ - personal
+title: Real Life Checkpoints
 ---
 
 When something is novel, that thing can either be exciting or scary; a high amplitude of love or fear. When I first took "the mountain pass" from Guate to Peten, I had much fear -- yo tuvo mucho miedo. This second time, through, was much easier. No, wrong word. It's actually enjoyable. I want to do this a third time.

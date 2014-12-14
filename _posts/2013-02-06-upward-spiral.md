@@ -1,6 +1,9 @@
 ---
- layout: post
- title: Upward Spiral
+layout: post
+tags:
+ - blawg
+ - personal
+title: Upward Spiral
 ---
 
 Life is defined by cycles, from large to small, we are composed of patterns and rhythms that repeat: day and night (rotation), the seasons (revolution), breathing (in, out), blinking (open, closed), at home or at work, working or on vacation, birthdays and unbirthdays, etc...

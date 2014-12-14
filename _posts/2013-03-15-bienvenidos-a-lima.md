@@ -1,6 +1,9 @@
 ---
- layout: post
- title: Bienvenidos a Lima
+layout: post
+tags:
+ - blawg
+ - personal
+title: Bienvenidos a Lima
 ---
 
 I love humidity. I wish I could always live in a place where I sweat

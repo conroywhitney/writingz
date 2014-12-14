@@ -1,6 +1,9 @@
 ---
- layout: post
- title: Jesus Does the Dishes
+layout: post
+tags:
+ - blawg
+ - personal
+title: Jesus Does the Dishes
 ---
 
 So I broke a(nother) beer today. I was closing the bar, doing inventory,

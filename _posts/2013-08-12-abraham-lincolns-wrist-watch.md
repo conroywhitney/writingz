@@ -1,6 +1,9 @@
 ---
- layout: post
- title: Abraham Lincoln's Wrist Watch
+layout: post
+tags:
+ - blawg
+ - personal
+title: Abraham Lincoln's Wrist Watch
 ---
 
 If I were time, I would be quite puzzled.

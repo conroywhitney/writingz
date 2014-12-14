@@ -1,6 +1,9 @@
 ---
- layout: post
- title: Science of Peace
+layout: post
+tags:
+ - blawg
+ - personal
+title: Science of Peace
 ---
 
 In order to write what I write, I do what I have always done, but then

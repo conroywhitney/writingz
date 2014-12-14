@@ -1,6 +1,9 @@
 ---
- layout: post
- title: Orange Bowl of Quiche
+layout: post
+tags:
+ - blawg
+ - personal
+title: Orange Bowl of Quiche
 ---
 
 I'm not sure why dates are so important. Yesterday was yesterday; today

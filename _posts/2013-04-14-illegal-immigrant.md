@@ -1,6 +1,9 @@
 ---
- layout: post
- title: Illegal Immigrant
+layout: post
+tags:
+ - blawg
+ - personal
+title: Illegal Immigrant
 ---
 
 I have always been very organized regarding my music. There's a certain

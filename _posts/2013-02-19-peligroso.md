@@ -1,6 +1,9 @@
 ---
- layout: post
- title: Peligroso
+layout: post
+tags:
+ - blawg
+ - personal
+title: Peligroso
 ---
 
 I've been robbed here at least four times; only once under duress, though. Funny thing is that it always happens around the same place, around the same time, when I'm doing pretty much the same thing. You think I'd learn by now, but nope. I'm not sure what else there is to do about it, though, except to either never go out (read: develop [agoraphobia](https://www.google.com/search?q=define%3Aagoraphobia)) or to just accept that when I do go out, I can expect my changes of getting robbed to be better than even.

@@ -1,6 +1,9 @@
 ---
- layout: post
- title: Bank of Big Brother
+layout: post
+tags:
+ - blawg
+ - personal
+title: Bank of Big Brother
 ---
 
 The first day that I started traveling, I tried to use my ATM card in Mexico City and it was blocked. Thankfully, at the time, I had enough cash on me (I was just getting more while killing time). If I didn't, though, I would not have had any recourse to fix the situation. I didn't have a working telephone. I didn't have access to the internet. I would have been stranded in a foreign country without access to my funds.

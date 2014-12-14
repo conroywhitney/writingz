@@ -1,6 +1,9 @@
 ---
- layout: post
- title: Power Hungry
+layout: post
+tags:
+ - blawg
+ - personal
+title: Power Hungry
 ---
 
 I'm a people pleaser. At least professionally. Depending on which school

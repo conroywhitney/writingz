@@ -1,6 +1,9 @@
 ---
- layout: post
- title: Pedro Pica Piedra
+layout: post
+tags:
+ - blawg
+ - personal
+title: Pedro Pica Piedra
 ---
 
 I'm fascinated with how much we all have in common, yet at the same time

@@ -1,6 +1,9 @@
 ---
- layout: post
- title: Cover Letter for Duolingo
+layout: post
+tags:
+ - blawg
+ - personal
+title: Cover Letter for Duolingo
 ---
 
 If it's OK by you, maybe I'll start in the near-present and work backwards before moving on to what I see that we can do together in the future. Sound good?
