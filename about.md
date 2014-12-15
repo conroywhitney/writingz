@@ -4,8 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+O hai. I'm Conroy. Nice to meet you.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+You can find me on other places on the web, such as:
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+* [github](https://github.com/conroywhitney)
+* [linkedin](https://linkedin.com/in/conroywhitney)
+* [facebook](https://facebook.com/conroy.whitney)
+* [twitter](https://twitter.com/conroywhitney)
