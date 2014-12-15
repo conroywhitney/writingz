@@ -4,11 +4,28 @@ email: hello@conroywhitney.com
 description: > # this means to ignore newlines until "baseurl:"
   Hi. I'm Conroy. Nice to meet you.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://www.conroywhitney.com/"
+url: "http://www.conroywhitney.com"
 twitter_username: jekyllrb
 github_username:  jekyll
+include:
+ - robots.txt
 exclude:
  - migrate
+ - _plugins
 
 # Build settings
 markdown: kramdown
+
+
+# these are all defaults
+sitemap:
+    file: "/sitemap.xml"
+    exclude:
+        - "/atom.xml"
+        - "/feed.xml"
+        - "/feed/index.xml"
+    include_posts:
+        - "/index.html"
+    change_frequency_name: "change_frequency"
+    priority_name: "priority"
+
